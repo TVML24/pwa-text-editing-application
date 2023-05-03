@@ -36,9 +36,9 @@ Deployment on Heroku [Here](https://limitless-peak-94119.herokuapp.com/)
 
 This project makes use of code from the bootcamp activities - although modified for this purpose.
 
-The idea for the email validation came from here: https://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax.
+I learned about caching strategies here: https://web.dev/stale-while-revalidate/
 
-It also makes use of nodeJS, MongoDB, Mongoose, ExpressJs, DayJS and others.
+It also makes use of nodeJS, ExpressJs, PWA, webpacks and others.
 
 The rest is my own work.
 
